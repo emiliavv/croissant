@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "croissant",
+			"path": "."
+		},
+		{
+			"name": "sources",
+			"path": "../../../../responsive/week3/sources"
+		}
+	],
+	"settings": {}
+}
